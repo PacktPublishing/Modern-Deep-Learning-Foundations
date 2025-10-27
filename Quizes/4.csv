@@ -1,0 +1,11 @@
+Question,Option1,Option2,CorrectAnswer
+Mixed Precision Training uses both FP32 and FP16 to improve speed and memory efficiency.,TRUE,FALSE,TRUE
+"Without gradient scaling, FP16 training may suffer from underflow.",TRUE,FALSE,TRUE
+Transfer learning always means freezing all pretrained layers and training only the final layer.,TRUE,FALSE,FALSE
+ONNX is an open format for exchanging models between frameworks.,TRUE,FALSE,TRUE
+TensorFlow Lite is designed for web deployment only.,TRUE,FALSE,FALSE
+"In PyTorch, autocast and GradScaler are used to automate mixed precision.",TRUE,FALSE,TRUE
+Transfer learning is most useful when a large labeled dataset is already available.,TRUE,FALSE,FALSE
+TorchScript allows PyTorch models to run without Python.,TRUE,FALSE,TRUE
+TensorBoard can be used in Colab to monitor experiments and visualize training.,TRUE,FALSE,TRUE
+Fine-tuning usually involves adjusting pretrained weights for a new task.,TRUE,FALSE,TRUE

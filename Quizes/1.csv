@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,CorrectAnswer
+"Classical machine learning typically requires manual feature engineering, while deep learning can learn features automatically.",TRUE,FALSE,,,TRUE
+A perceptron (artificial neuron) applies a non-linear activation function after summing weighted inputs and bias.,TRUE,FALSE,,,TRUE
+Backpropagation relies on the chain rule to compute gradients across layers efficiently.,TRUE,FALSE,,,TRUE
+A smaller learning rate always leads to faster convergence during gradient descent.,TRUE,FALSE,,,FALSE
+"Accuracy is always a sufficient metric for model performance, regardless of dataset imbalance.",TRUE,FALSE,,,FALSE
+Which activation function is most widely used in modern deep networks?,softmax,Tanh,Sin,ReLU,ReLU
+"In backpropagation, what is propagated backward through the network?",Predictions,Gradients,Inputs,Labels,Gradients
+An epoch refers to:,A single update of weights,One forward pass through a mini-batch,One full pass through the entire training dataset,A random initialization of weights,One forward pass through a mini-batch
+What does dropout do during training?,Adds noise to the input data,Randomly disables neurons to prevent co-adaptation,Stops training early,Reduces dataset size,Randomly disables neurons to prevent co-adaptation
+"When the training loss decreases but validation loss increases, this usually indicates:",Underfitting,Proper generalization,Overfitting,Good convergence,Overfitting

@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,CorrectAnswer
+Convolutional Neural Networks (CNNs) exploit spatial locality and weight sharing.,TRUE,FALSE,,,TRUE
+Padding in CNNs helps preserve spatial dimensions after applying convolution.,TRUE,FALSE,,,TRUE
+"Pooling layers, such as max pooling, reduce feature map size and add shift invariance.",TRUE,FALSE,,,TRUE
+"GRUs (Gated Recurrent Units) are more complex than LSTMs, with additional gates.",TRUE,FALSE,,,FALSE
+Autoencoders are trained in a supervised way to predict labels.,TRUE,FALSE,,,FALSE
+"Transformers replace recurrence with self-attention, enabling parallelization.",TRUE,FALSE,,,TRUE
+Why are CNNs generally preferred over MLPs for images?,They require more memory,They capture local patterns with fewer parameters,They ignore spatial structure,They are better in text tasks,They capture local patterns with fewer parameters
+Which problem do LSTMs primarily solve compared to vanilla RNNs?,Overfitting,Gradient problems in long sequences,Image classification,Lack of non-linearities,Gradient problems in long sequences
+The key innovation of Transformers is:,Using convolution filters on sequences,Replacing recurrence with self-attention,Removing hidden layers,Using fewer parameters than CNNs,Replacing recurrence with self-attention
+What is the role of positional encoding in Transformers?,Normalize weights,Encode sequence order,Reduce overfitting,Improve convergence speed,Encode sequence order

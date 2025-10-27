@@ -1,0 +1,6 @@
+Question,Option1,Option2,Option3,Option4,CorrectAnswer
+"A professional DL engineer should always track experiments, data, and model versions.",TRUE,FALSE,,,TRUE
+Explainability is valuable because it increases trust from stakeholders and regulators.,TRUE,FALSE,,,TRUE
+Which domain typically uses CNNs or ViTs?,NLP,Computer Vision,Tabular Data,Time Series,Computer Vision
+Which domain is most associated with models like BERT or GPT?,NLP,Computer Vision,Tabular Data,Time Series,NLP
+Explainability is valuable because it increases trust from stakeholders and regulators.,TRUE,FALSE,,,TRUE

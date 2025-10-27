@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,CorrectAnswer
+Batch Normalization reduces internal covariate shift and helps stabilize training.,TRUE,FALSE,,,TRUE
+Layer Normalization normalizes across the batch dimension.,TRUE,FALSE,,,FALSE
+Xavier initialization is often used for sigmoid or tanh activations.,TRUE,FALSE,,,TRUE
+Adam optimizer combines momentum with adaptive learning rates.,TRUE,FALSE,,,TRUE
+"Explainability methods like SHAP, Grad-CAM, and feature importance help interpret model decisions.",TRUE,FALSE,,,TRUE
+Which normalization works best for variable-length sequences?,BatchNorm,LayerNorm,WeightNorm,None,LayerNorm
+Which optimizer decouples weight decay from adaptive updates?,SGD,Adam,AdamW,RMSProp,AdamW
+Which optimizer is especially memory-efficient for very large models?,SGD,Lion,Adafactor,AdamW,Adafactor
+SHAP values are based on,Gradient magnitudes,Shapley values from game theory,Random noise analysis,Layer activations,Shapley values from game theory
+Grad-CAM highlights,The weights of the last dense layer,The regions of an input image most relevant to a prediction,The sequence of activations in an RNN,The variance of gradients across epochs,The regions of an input image most relevant to a prediction
